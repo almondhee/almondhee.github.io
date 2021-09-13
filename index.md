@@ -1,8 +1,15 @@
 ## 이서희 이력서
 
-안녕하세요 이서희 입니다.
+안녕하세요 **이서희** 입니다. 열심히 하겠습니다.
 
-![이서희_취업사진_핑크](https://user-images.githubusercontent.com/90589395/133077139-30125be0-2697-4c7e-a3a4-b13855703589.jpg)
+<img src= "https://user-images.githubusercontent.com/90589395/133077139-30125be0-2697-4c7e-a3a4-b13855703589.jpg" width="300" height="400"/>
+
+
+#### 모토
+George S. Patton said:
+
+>A good plan, violently executed now,
+>is better than a perfect plan next week.
 
 
 ### 소속
@@ -11,31 +18,28 @@
 
 * 이화여자대학교 사화과학대학 소비자학과 복수전공
 
+### 인적사항
 
-```markdown
-Syntax highlighted code block
+* *Telephone* 010-0000-0000
+* *E-Mail* 4807seohee@naver.com
+* *Mail* 서울시 마포구 00동 000번지
 
-# Header 1
-## Header 2
-### Header 3
+### 교내활동
+| 번호 |              소   속              |  직  위  |
+|-----|-----------------------------------|---------|
+|  1  | 이화여자대학교 사범대학 유아교육과   |**부과대**|
+|  2  | 이화여자대학교 사범대학 유아교육과   |**학생회**|
+|  3  | 이화여자대학교 중앙동아리연합회 소속 중앙동아리 한소리|**부원**|
+|  4  | 이화여자대학교 중앙동아리연합회 소속 중앙동아리 한소리|**공연기획부장**|
 
-- Bulleted
-- List
+### 비전공자코딩입문 수업 성취 목표
+* [x] Github 에서 레쥬메 페이지 런칭하기
+* [ ] 코딩에서 사용하는 다양한 언어를 접하고 다뤄보기
+* [ ] 직접 간단한 코딩 진행해 보기
+* [ ] 다양한 코딩 용어에 익숙해지기
+* [ ] 다양한 데이터 형태 다뤄보기
+* [ ] 데이터 기반 분석적 사고 기르기
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/almondhee/almondhee.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 비전공자코딩입문 수업에 바라는 점
+* [ ] 실습진행 방향을 영상으로 남겨서 자주 볼 수 있는것도 좋지만, 실시간으로 같이 함께 진행해보는것도 도움이 될 것 같습니다!
+* [ ] 교수님께서 말씀해주신대로 줌라이브를 통해 자유롭게 질문을 주고받는 시간 많이 가져 주세요! 
