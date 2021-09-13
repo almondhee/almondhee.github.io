@@ -2,7 +2,7 @@
 
 안녕하세요 **이서희** 입니다. 열심히 하겠습니다.
 
-<img src= "https://user-images.githubusercontent.com/90589395/133077139-30125be0-2697-4c7e-a3a4-b13855703589.jpg" width="300" height="400"/>
+<img src= "https://user-images.githubusercontent.com/90589395/133084259-4c866f7c-2cef-4463-9885-b1925d03a7f4.jpg" width="300" height="400"/>
 
 
 #### 모토
