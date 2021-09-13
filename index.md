@@ -2,8 +2,7 @@
 
 안녕하세요 **이서희** 입니다. 열심히 하겠습니다.
 
-<img src= "https://user-images.githubusercontent.com/90589395/133077139-30125be0-2697-4c7e-a3a4-b13855703589.jpg" width="300" height="400"/>
-
+<img src= "![profile](https://user-images.githubusercontent.com/90589395/133082261-b9f0b767-9fbc-47f6-9220-95d7baa413d6.jpg)" width="300" height="400"/>
 
 #### 모토
 George S. Patton said:
@@ -24,6 +23,8 @@ George S. Patton said:
 * *E-Mail* 4807seohee@naver.com
 * *Mail* 서울시 마포구 00동 000번지
 
+**교수님 다음과 같이 코드를 짰는데, 깃헙 프리뷰페이지에선 정상작동하나 레쥬메 웹페이지에서는 오류가 납니다!**
+```
 ### 교내활동
 | 번호 |              소   속              |  직  위  |
 |-----|-----------------------------------|---------|
@@ -31,6 +32,12 @@ George S. Patton said:
 |  2  | 이화여자대학교 사범대학 유아교육과   |**학생회**|
 |  3  | 이화여자대학교 중앙동아리연합회 소속 중앙동아리 한소리|**부원**|
 |  4  | 이화여자대학교 중앙동아리연합회 소속 중앙동아리 한소리|**공연기획부장**|
+```
+<img src= "![pageerror](https://user-images.githubusercontent.com/90589395/133082305-92e6da8e-4928-46b1-8c8c-014170d3a0dc.jpg)"/>
+<img src= "![pageerror2](https://user-images.githubusercontent.com/90589395/133082334-8b209643-46c2-414b-8b0c-50346b15b31f.jpg)"/>
+
+
+
 
 ### 비전공자코딩입문 수업 성취 목표
 * [x] Github 에서 레쥬메 페이지 런칭하기
