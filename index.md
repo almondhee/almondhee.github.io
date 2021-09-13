@@ -2,7 +2,7 @@
 
 안녕하세요 **이서희** 입니다. 열심히 하겠습니다.
 
-<img src= "![profile](https://user-images.githubusercontent.com/90589395/133082261-b9f0b767-9fbc-47f6-9220-95d7baa413d6.jpg)" width="300" height="400"/>
+<img src= "![profile](https://user-images.githubusercontent.com/90589395/133082968-ddf32bcf-db36-4c94-b8b1-2b6fc93604fd.jpg)" width="300" height="400"/>
 
 #### 모토
 George S. Patton said:
@@ -35,8 +35,6 @@ George S. Patton said:
 ```
 <img src= "![pageerror](https://user-images.githubusercontent.com/90589395/133082305-92e6da8e-4928-46b1-8c8c-014170d3a0dc.jpg)"/>
 <img src= "![pageerror2](https://user-images.githubusercontent.com/90589395/133082334-8b209643-46c2-414b-8b0c-50346b15b31f.jpg)"/>
-
-
 
 
 ### 비전공자코딩입문 수업 성취 목표
